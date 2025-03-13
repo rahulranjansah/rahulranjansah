@@ -24,8 +24,7 @@
 
 ## Let's Connect
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge)](https://rahulranjansah.github.io/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](linkedin.com/in/rahulranjansah/)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rahulranjansah/)
 
 ## 🚀 Featured Projects
 
@@ -77,5 +76,5 @@ A project using Python wrapper for the Dominos Pizza API to order pizza from the
   <img src="https://raw.githubusercontent.com/rahulranjansah/pizzaterminal/refs/heads/master/pizzaterminaldemo.png
   " width="46%" />
   <br />
-  <em>Demo Pizzaterminal | Comet67P</em>
+  <em>Demo Pizzaterminal</em>
 </div>
