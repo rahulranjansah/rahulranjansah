@@ -73,8 +73,7 @@ A project using Python wrapper for the Dominos Pizza API to order pizza from the
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rahulranjansah/pizzaterminal/refs/heads/master/pizzaterminaldemo.png
-  " width="46%" />
+  <img src="https://raw.githubusercontent.com/rahulranjansah/pizzaterminal/refs/heads/master/pizzaterminaldemo.png" width="46%" />
   <br />
   <em>Demo Pizzaterminal</em>
 </div>
