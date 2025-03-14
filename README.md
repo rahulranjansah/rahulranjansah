@@ -78,3 +78,13 @@ A project using Python wrapper for the Dominos Pizza API to order pizza from the
   <br />
   <em>Demo Pizzaterminal</em>
 </div>
+
+### [LaTeX-Matrix Calculator](https://github.com/rahulranjansah/LaTeX-Matrix-Calculator-python)
+
+A matrix calculator for solving matrix of shape m*n. It has built-in feature of getting latex output of the computation in .tex and .pdf format support with clean formatting for REFs, RREFs, Arithmetic operations, and Dot product
+
+<div align="center">
+  <img src="./img/matrix_latex.png" width="46%" />
+  <br />
+  <em>Demo Latex Workflow</em>
+</div>
