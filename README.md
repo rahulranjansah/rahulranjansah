@@ -87,3 +87,17 @@ A matrix calculator for solving matrix of shape m*n. It has built-in feature of 
   <br />
   <em>Demo Latex Workflow</em>
 </div>
+
+---
+
+### [Numerical Computations](https://github.com/rahulranjansah/Phy-504)
+
+Solving Schrodinger's equation, Runge-Kutta method, Partial Differential Equations, and Odinary Differential Equations using Python. To plot hydrogen excitations, modelling zombie apocalypse, and more.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rahulranjansah/Phy-504/refs/heads/main/results/harmonicosicillation10e10.png"  style="width: 48%; object-fit: cover;" />
+  <img src="https://raw.githubusercontent.com/rahulranjansah/Phy-504/refs/heads/main/results/zombie_apoclypse.png" style="width: 48%;" />
+  <img src="https://raw.githubusercontent.com/rahulranjansah/Phy-504/refs/heads/main/results/hydrogenexcitation.png" style="width: 48%; object-fit: cover;" />
+  <br />
+  <em>Left: Harmonic oscillations model | Right: Zombie Apoclypse | Down: Hydrogen excitation</em>
+</div>
