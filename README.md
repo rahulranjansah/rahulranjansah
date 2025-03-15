@@ -16,10 +16,10 @@
 - Tools: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
 - Others: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![WSL](https://img.shields.io/badge/-WSL-4D76E3?logo=windows&logoColor=white)
 
-## GitHub Stats
+<!-- ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulranjansah&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulranjansah&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=rahulranjansah&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=rahulranjansah&theme=radical) -->
 
 ## Let's Connect
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge)](https://rahulranjansah.github.io/)
