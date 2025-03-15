@@ -7,20 +7,19 @@
 - 📫 How to reach me: rahulranjann45@gmail.com.
 
 ## My Skills
-- Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) ![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-121011?logo=gnu-bash&logoColor=white)
+- Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) ![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-121011?logo=gnu-bash&logoColor=white)![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 - Libraries: ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-008ABC?logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Spiceypy](https://img.shields.io/badge/-Spiceypy-FFD800?logo=python&logoColor=white) ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=python&logoColor=white) ![Sympy](https://img.shields.io/badge/-Sympy-3B5526?logo=python&logoColor=white) ![poliastro](https://img.shields.io/badge/-poliastro-FFD800?logo=python&logoColor=white) ![Statsmodels](https://img.shields.io/badge/-Statsmodels-FFD800?logo=python&logoColor=white)
 - Frameworks: ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 - Databases: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 - Cloud: ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Hadoop](https://img.shields.io/badge/-Hadoop-FF652F?logo=apache-hadoop&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apache-spark&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white)
 - Testing: ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white)
 - Tools: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
-- Others: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+- Others: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![WSL](https://img.shields.io/badge/-WSL-4D76E3?logo=windows&logoColor=white)
 
-
-<!-- ## GitHub Stats
+## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulranjansah&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulranjansah&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=rahulranjansah&theme=radical) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=rahulranjansah&theme=radical)
 
 ## Let's Connect
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge)](https://rahulranjansah.github.io/)
