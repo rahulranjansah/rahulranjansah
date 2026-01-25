@@ -2,12 +2,12 @@
 
 ## About Me
 - 🔭 I’m currently working in Makana Partners.
-- 🌱 I’m currently learning ElasticSearch.
+- 🌱 I’m currently learning CUDA.
 - 👯 I’m looking to collaborate on Search/Recommendations, Numercial Computation, & ML/AI.
 - 📫 How to reach me: rahulranjann45@gmail.com.
 
 ## My Skills
-- Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) ![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-121011?logo=gnu-bash&logoColor=white)![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+- Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) ![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-121011?logo=gnu-bash&logoColor=white)![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![Fortran](https://img.shields.io/badge/-Fortran-0099CC?logo=fortran&logoColor=white)
 - Libraries: ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-008ABC?logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Spiceypy](https://img.shields.io/badge/-Spiceypy-FFD800?logo=python&logoColor=white) ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=python&logoColor=white) ![Sympy](https://img.shields.io/badge/-Sympy-3B5526?logo=python&logoColor=white) ![poliastro](https://img.shields.io/badge/-poliastro-FFD800?logo=python&logoColor=white) ![Statsmodels](https://img.shields.io/badge/-Statsmodels-FFD800?logo=python&logoColor=white)
 - Frameworks: ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 - Databases: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
@@ -34,6 +34,18 @@ PulseSuite is a high-performance computational physics toolkit for simulating ul
   <em></em>
 </div>
 
+---
+### [BoInOr - Open Source Contribution](https://github.com/boinor/boinor)
+Boinor (Bodies In Space) is an open source (MIT) pure Python library for interactive Astrodynamics and Orbital Mechanics, with a focus on ease of use, speed, and quick visualization. It provides a simple and intuitive API, and handles physical quantities with units. Enhancement with Aitoff projections: Aitoff Projection of Solar System bodies & spacecraft. Also using SPICE dsk kernel to render for a few small, irregularly shaped objects. Documentation is available [here](https://boinor.readthedocs.io/en/latest/).
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rahulranjansah/Animations/main/models/benu.gif" width="46%" />
+    <img src="https://raw.githubusercontent.com/rahulranjansah/Animations/main/models/Comet67P.gif" width="45%" />
+  <br />
+  <em>Benu Animation | Comet67P</em>
+</div>
+
+---
 ### [SpectralML](https://github.com/rahulranjansah/SpectralML)
 This is a machine learning project of predicting Asteroids of SMASS survey using multiclass SVM model. Further, we use Gaussian Mixture Models to confirm the presence of non-gaussian datasets.
 
@@ -46,19 +58,6 @@ This is a machine learning project of predicting Asteroids of SMASS survey using
 
 ---
 
-### [Hapsira -- Open Source Contribution](https://github.com/rahulranjansah/hapsira)
-Open Source Contribution reviewing for adding 3D visualization features for rendering asteroids & comets using NASA's SPICE data. Wrote custom script setup tools for data conversion utilizing Jet Propulsion Labs *dskexp* tool
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rahulranjansah/Animations/main/models/benu.gif" width="46%" />
-    <img src="https://raw.githubusercontent.com/rahulranjansah/Animations/main/models/Comet67P.gif" width="45%" />
-  <br />
-  <em>Benu Animation | Comet67P</em>
-</div>
-
-
----
-
 ### [Cassini Paper Reproducing](https://github.com/rahulranjansah/SpectralML)
 Reproducing Cassini's Cosmic Dust Analyzer (CDA) Research Paper to beat paper's baseline model using ML models.
 
@@ -67,6 +66,18 @@ Reproducing Cassini's Cosmic Dust Analyzer (CDA) Research Paper to beat paper's 
   <img src="https://raw.githubusercontent.com/rahulranjansah/cassini/refs/heads/main/img/streamlit.png" style="width: 48%; height: 500px; object-fit: cover;" />
   <br />
   <em>Left: Calibration final model | Right: Dashboard website</em>
+</div>
+
+### [Numerical Computations](https://github.com/rahulranjansah/Phy-504)
+
+Solving Schrodinger's equation, Runge-Kutta method, Partial Differential Equations, and Odinary Differential Equations using Python. To plot hydrogen excitations, modelling zombie apocalypse, and more.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rahulranjansah/Phy-504/refs/heads/main/results/harmonicosicillation10e10.png"  style="width: 48%; object-fit: cover;" />
+  <img src="https://raw.githubusercontent.com/rahulranjansah/Phy-504/refs/heads/main/results/zombie_apoclypse.png" style="width: 48%;" />
+  <img src="https://raw.githubusercontent.com/rahulranjansah/Phy-504/refs/heads/main/results/hydrogenexcitation.png" style="width: 48%; object-fit: cover;" />
+  <br />
+  <em>Left: Harmonic oscillations model | Right: Zombie Apoclypse | Down: Hydrogen excitation</em>
 </div>
 
 ---
